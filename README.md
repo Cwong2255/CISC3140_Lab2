@@ -1,1 +1,1 @@
-# Writing Assignemnt for Lab Activity #2
+# Writing Assignment for Lab Activity #2
